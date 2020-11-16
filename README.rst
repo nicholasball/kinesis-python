@@ -1,21 +1,8 @@
 Kinesis Python (Enhanced)
 ==============
 
-.. image:: https://img.shields.io/travis/NerdWalletOSS/kinesis-python.svg
-           :target: https://travis-ci.org/NerdWalletOSS/kinesis-python
-
-.. image:: https://img.shields.io/codecov/c/github/NerdWalletOSS/kinesis-python.svg
-           :target: https://codecov.io/github/NerdWalletOSS/kinesis-python
-
-.. image:: https://img.shields.io/pypi/v/kinesis-python.svg
-           :target: https://pypi.python.org/pypi/kinesis-python
-           :alt: Latest PyPI version
-
-
-
 
 **Note: This is an extended version of NerdWalletOSS/kinesis-python (v0.2.1) which seems to no longer be maintained. We are more than happy to merge these enhancements into the original repository, should we be allowed to do so in the future!**
-
 
 
 

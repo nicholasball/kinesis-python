@@ -12,8 +12,8 @@ Kinesis Python (Enhanced)
            :alt: Latest PyPI version
 
 
-This package is an extended version of NerdWalletOSS/kinesis-python which seems to no longer be maintained.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This package is an extended version of NerdWalletOSS/kinesis-python which seems to no longer be maintained
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The `official Kinesis python library`_ requires the use of Amazon's "MultiLangDaemon", which is a Java executable that
 operates by piping messages over STDIN/STDOUT.

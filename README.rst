@@ -14,7 +14,7 @@ Kinesis Python (Enhanced)
 
 
 
-**Note: This is an extended version of NerdWalletOSS/kinesis-python which seems to no longer be maintained. We are happy to merge these enhancements into the original repository, should we be allowed to do so.**
+**Note: This is an extended version of NerdWalletOSS/kinesis-python (v0.2.1) which seems to no longer be maintained. We are more than happy to merge these enhancements into the original repository, should we be allowed to do so in the future!**
 
 
 

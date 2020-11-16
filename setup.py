@@ -11,7 +11,7 @@ with open('README.rst', 'r') as readme_fd:
 setup(
     name='kinesis-python-enhanced',
     version=version,
-    description='Low level, multiprocessing based AWS Kinesis producer & consumer library, with additional features',
+    description='Low level, multiprocessing based AWS Kinesis producer & consumer library, originated from kinesis-python repo but with additional features',
     long_description=long_description,
     url='https://github.com/nicholasball/kinesis-python-enhanced',
 
